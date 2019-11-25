@@ -209,7 +209,7 @@
             // 
             // BtnActualizar
             // 
-            this.BtnActualizar.Location = new System.Drawing.Point(164, 271);
+            this.BtnActualizar.Location = new System.Drawing.Point(47, 271);
             this.BtnActualizar.Margin = new System.Windows.Forms.Padding(2);
             this.BtnActualizar.Name = "BtnActualizar";
             this.BtnActualizar.Size = new System.Drawing.Size(134, 19);
@@ -230,7 +230,7 @@
             // 
             // BtnCancelar
             // 
-            this.BtnCancelar.Location = new System.Drawing.Point(310, 271);
+            this.BtnCancelar.Location = new System.Drawing.Point(350, 271);
             this.BtnCancelar.Margin = new System.Windows.Forms.Padding(2);
             this.BtnCancelar.Name = "BtnCancelar";
             this.BtnCancelar.Size = new System.Drawing.Size(134, 19);
@@ -241,7 +241,7 @@
             // 
             // BtnInsertar
             // 
-            this.BtnInsertar.Location = new System.Drawing.Point(164, 271);
+            this.BtnInsertar.Location = new System.Drawing.Point(200, 271);
             this.BtnInsertar.Margin = new System.Windows.Forms.Padding(2);
             this.BtnInsertar.Name = "BtnInsertar";
             this.BtnInsertar.Size = new System.Drawing.Size(134, 19);
