@@ -1,0 +1,55 @@
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoCS\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\ProyectoCS\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+D:\SistemaVentas\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+D:\SistemaVentas\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
