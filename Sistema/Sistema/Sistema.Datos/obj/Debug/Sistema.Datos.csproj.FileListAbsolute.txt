@@ -1,0 +1,18 @@
+C:\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\ProyectoCS\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\ProyectoCS\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb

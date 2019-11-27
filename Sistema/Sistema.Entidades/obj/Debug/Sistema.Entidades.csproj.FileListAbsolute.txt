@@ -4,15 +4,15 @@ C:\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemb
 C:\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
 C:\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
 C:\ProyectoCS\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
-D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
-D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
-D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
-D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
-D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
-D:\perfil\victor.contreras\Desktop\Sistema (1)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+D:\perfil\victor.contreras\Desktop\Sistema (7)\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
 D:\SistemaVentas\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
 D:\SistemaVentas\Sistema\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
-D:\SistemaVentas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
 D:\SistemaVentas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
 D:\SistemaVentas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
 D:\SistemaVentas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+D:\SistemaVentas\Sistema\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
